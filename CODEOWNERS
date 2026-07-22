@@ -1,0 +1,15 @@
+# Security-sensitive files
+/src/auth.js @security-team
+/app.py @security-team
+/config.js @security-team
+/auth.go @security-team
+/api.js @security-team
+/server.js @security-team
+/views.py @security-team
+/proxy.js @security-team
+/shell.php @security-team
+/upload.php @security-team
+/redirect.js @security-team
+/login.py @security-team
+/crypto.js @security-team
+/file.php @security-team
